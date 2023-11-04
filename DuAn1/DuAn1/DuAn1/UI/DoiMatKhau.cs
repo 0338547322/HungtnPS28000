@@ -15,7 +15,7 @@ namespace DuAn1.UI
         public DoiMatKhau()
         {
             InitializeComponent();
-            // Co cho gia
+            // Co cho gia cc ba gia
         }
 
         private void LoadTheme()
